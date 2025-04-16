@@ -1,0 +1,181 @@
+---
+title: CV
+
+author: Andres Humberto Chirinos Lizondo
+date: last-modified
+phone: (591) 671-57385
+address: "Av. Sanchez Lima 2054, Sopocachi · La Paz, Bolivia"
+email: ahchirinos@umsa.bo
+fontsize: 11pt
+#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+mainfont: "EB Garamond"
+#CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
+github: andres-chirinos # github account
+#orcid: 0009-0004-1628-6135 # orcid identifier
+#osf: ymqui # osf five character id
+#twitter: andreschirinos_ # twitter handle
+#updated: "`r Sys.Date()`"
+web: andres-chirinos.github.io
+linkedin: andres-chirinos
+#kaggle: andreschirinos
+fontawesome: yes
+nocite: '@*'
+bibliography: 
+  - projects: projects.bib
+validate-yaml: false
+csl: apa-cv.csl
+
+dateofbirth: 09 de Diciembre del 2004
+placeofbirth: Nuestra Señora de La Paz, Bolivia
+nacionality: Boliviana
+identification: 13280260 LP
+age: 20
+maritalstatus: Soltero
+languages: Español nativo, Ingles B2
+
+---
+
+# Resumen
+
+Estudiante de Ingeniería en Sistemas (UDABOL) y Estadística (UMSA), admitido a la UMSA por su desempeño en la Olimpiada Científica Escolar en Informática. Fundador y presidente de la Sociedad Científica de Estudiantes de Estadística, con participación destacada en programación competitiva, obteniendo menciones honoríficas en las finales sudamericanas. Representante en competencias nacionales de programación y participante en congresos de tecnología. Ingles a nivel intermedio B2. Instructor y Consejero en Club de Conquistadores (Boy Scouts) por 4 años.
+
+# Formación Académica
+
+### Universidad Mayor de San Andrés - UMSA \hfill La Paz, Bolivia
+3er Semestre, Licenciatura en Estadística \hfill _Marzo 2023 - En curso_
+
+Promedio Aprobadas: 68.87
+
+- Ingreso Libre/Convenio por Olimpiada Científica Escolar de Informática
+- Miembro Fundador y Presidente de la Sociedad Científica de Estudiantes de Estadística
+
+### Universidad de Aquino Bolivia - UDABOL \hfill La Paz, Bolivia
+5to Semestre, Ingenieria de Sistemas \hfill _Marzo 2023 - En curso_
+
+Promedio: 77.84
+
+- Miembro del Equipo Representante en Programación Competitiva a nivel Nacional _2023 - Presente_
+- Admisión bajo Beca 
+
+### Unidad Educativa Adventista Miraflores UEAM \hfill La Paz, Bolivia
+Diploma de Bachiller en Humanidades \hfill 2022
+
+Promedio: 78
+
+- Miembro del Equipo Representante en Olimpíadas de Matemática e Informática
+- Presidente de Curso en las gestiones 2021 y 2022
+- Ingreso por Rendimiento Académico y Beca de Ayuda a Familias Numerosas
+- Reservista del Servicio Militar Voluntario (escala 2021-2022), seleccionado por invitación gracias a un rendimiento académico sobresaliente
+- Lider Instructor y Consejero en Club de Conquistadores (Boy Scouts) desde 2021 hasta la Actualidad
+- Miembro en la escuadrá de percusión en la Banda Sinfonica en la gestión 2022
+
+# Formación Adicional
+
+### Capacitación Incuba Unión Huawei \hfill Virtual
+Fundación Emprender Futuro - Programa Incuba Unión Etapa 1 \hfill _Enero, 2025_
+
+### Curso de Base de Datos PostgreSQL Server \hfill Virtual
+Udemy \hfill _Enero, 2025_
+
+### Curso Google: Inteligencia Artificial y productividad \hfill Virtual
+Santander Open Academy \hfill _Enero, 2025_
+
+### Conferencia PyDay La Paz 2024 \hfill La Paz, Bolivia
+Python La Paz \hfill _Noviembre, 2024_
+
+### XXVIII Congreso Internacional de Ciencias de la Computación - CICC 2024 "Tendencias Tecnológicas" \hfill La Paz, Bolivia
+Universidad de Aquino Bolivia \hfill _Junio, 2024_
+
+### Capacitación de Agente Censal - Censo de Población y Vivienda 2024 \hfill La Paz, Bolivia
+Instituto Nacional de Estadística - INE \hfill Marzo, 2024_
+
+### Curso de Python Essentials 2 \hfill Virtual
+Cisco Networking Academy \hfill _Octubre, 2023_
+
+### Curso de Python Essentials 1 \hfill Virtual
+Cisco Networking Academy \hfill _Octubre, 2023_
+
+### XXVII Congreso Internacional de Ciencias de la Computación - CICC 2023 "Conectividad inteligente: la integración de la tecnología 5G con la Inteligencia Artificial" \hfill La Paz, Bolivia
+Universidad de Aquino Bolivia \hfill _Junio, 2023_
+
+# Experiencia Laboral
+
+### Instituto Nacional de Estadística - INE \hfill La Paz, Bolivia
+Agente Censal - Censo de Población y Vivienda 2024 \hfill _Marzo 2024_
+
+- Me nombrarón supervidor de Sector
+- Coordinación de la recolección y logística de boletas censales para un complejo habitacional de aproximadamente 80 viviendas.
+- Soporte en la corrección y resolución de dudas a los agentes censales.
+
+### Universidad Mayor de San Andrés - UMSA \hfill La Paz, Bolivia
+Agente Censal - Encuesta Institucional 2023 preparatoria para el 2do Congreso \hfill _Septiembre - Octubre 2023_
+
+- Recolección de datos en aproximadamente 70 estudiantes y 5 docentes junto a un equipo en el campus universitario de Cota Cota, en las facultades de Ciencias Puras y Naturales, Geografía y Ciencias de la Educación.
+
+### UDEII Internacional Sede Sucursal Bolivia \hfill La Paz, Bolivia
+Encargado de Sistemas \hfill _Marzo 2022 - Noviembre 2024_
+
+- Implementación de sistema de gestión de ventas e inventarios para insumos profesionales para peluquerías, utilizando programas como mdventas y Excel
+
+# Habilidades
+
+Python Avanzado, ArcGis Básico, Latex Básico, SQL Intermedio, MongoDB Básico, JavaScript Intermedio, Planeación Estrategica, Solución de Problemas, Comunicación, Liderazgo y trabajo en equipo, Manejo de paquete office y herramientas de colaboración de Google Workspace
+
+# Idiomas
+Ingles B2
+
+# Logros
+
+### Certificado de Logro - Mención de Honor \hfill Tarija, Bolivia
+International Collegiate Programming Contest - SouthAmerica/SouthFinals 2024 \hfill _Noviembre, 2024_
+
+### Certificado de Participación \hfill La Paz, Bolivia
+ICPC Bolivia - Competencia Boliviana de Programación 2024 \hfill _Agosto, 2023_
+
+### Medalla de Bronce - Finalista \hfill Cochabamba, Bolivia
+Universidad Mayor de San Simón, Departamento de Informática y Sistemas - Sansi Cup 2023 \hfill _Diciembre 2023_
+
+### Certificado de Participación - Finalista - 3° Lugar \hfill La Paz, Bolivia
+Gobierno Autónomo Municipal de La Paz - Chukuta Grand Developer - Coding \hfill _Noviembre 2023_
+
+### Certificado de Logro - Mención de Honor - 51° Lugar \hfill La Paz, Bolivia
+International Collegiate Programming Contest - SouthAmerica/SouthFinals 2023 \hfill _Octubre 2023_
+
+### Certificado de Logro - Mención de Honor - 41° Lugar \hfill La Paz, Bolivia
+International Collegiate Programming Contest - Bolivia Preliminary 2023 \hfill _Septiembre 2023_
+
+### Certificado - Mención de Honor \hfill La Paz, Bolivia
+Universidad Mayor de San Andrés - Olimpiadas de Ciencias San Andrés 2022 - Área Informática \hfill _Diciembre 2022_
+
+### Certificado - Mención de Honor \hfill La Paz, Bolivia
+Universidad Mayor de San Andrés - Olimpiadas de Ciencias San Andrés 2022 - Área Geografía \hfill _Diciembre 2022_
+
+### Diploma- Mención de Honor \hfill La Paz, Bolivia
+Universidad Mayor de San Andrés - 14° Olimpiada Paceña de Matemática \hfill _Diciembre 2018_el campus universitario de Cota Cota, de las facultades de Ciencias Puras y Naturales, Geografía y Ciencias de la Educación.
+
+# Recomendaciones
+
+### Licenciada María Isabel Conde Altamirano
+
+Docente de Materias de Programación Estadística 
+
+Universidad Mayor de San Andrés
+
+[+591 71927241](tel:+59171927241)
+
+### Ingeniero Adhemar Hugo Ramírez Castellón
+
+Docente de Materias de Programación y Base de Datos (Couch de Equipo de Programación Competitiva)
+
+Universidad de Aquino Bolivia
+
+[+591 70699656](tel:+59170699656)
+
+### Licenciado Richard Conde Cussi
+
+Docente de Materias de Geografía, Civica e Historia
+
+Unidad Educativa Adventista Miraflores
+
+[+591 71926297](tel:+59171926297)
+
