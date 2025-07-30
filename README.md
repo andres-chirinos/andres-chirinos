@@ -18,24 +18,15 @@ Soy estudiante de **Estadística** y **Ingeniería en Sistemas**, apasionado por
 
 ## 🏆 Proyectos Destacados
 
-🔹 [**Sociedad Científica de Estudiantes de Estadística**](https://sociest.org/) - Sitio web con Quarto y Cloudflare.
+🔹 [**Sociedad Científica de Estudiantes de Estadística**](https://sociest.org/) - Sitio web de Odoo.
 
-🔹 [**USDT/BOB Dashboard**](https://github.com/andres-chirinos/usdt-bob-dashboard) - Dashboard con web scraping y API.
+🔹 [**p2p-bob-exchange**](https://github.com/andres-chirinos/p2p-bob-exchange) - Datos y [dashboard](https://p2p-bob-exchange.streamlit.app/) del dolar en binance bolivia 
 
 🔹 [**Competitive Programming Solved Problems**](https://github.com/clubalgoritmos/CompetitiveProgramming) - Repositorio con soluciones optimizadas.
 
 🔹 [**Discord Python Bot**](https://github.com/andres-chirinos/DiscordBotWebsite) - Bot con Flask y MongoDB.
 
-Ver más en mi [GitHub](https://github.com/andres-chirinos?tab=repositories)
-
----
-
-## 📌 Áreas de Interés
-
-- **Gestión de Proyectos**: Implementación de herramientas eficientes.
-- **Automatización**: Uso de APIs y bots para optimizar procesos.
-
----
+Ver más en mi [GitHub](https://github.com/andres-chirinos?tab=repositories) debe haber más xd
 
 ## 📫 Contáctame
 
@@ -44,3 +35,4 @@ Ver más en mi [GitHub](https://github.com/andres-chirinos?tab=repositories)
 🌍 GitHub: [@andres-chirinos](https://github.com/andres-chirinos)
 
 Siempre abierto a nuevas oportunidades y colaboraciones. 🚀
+_Contenido probablemente hecho con IA xd_
