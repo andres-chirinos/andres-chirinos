@@ -8,7 +8,7 @@ website:
       - href: index.qmd
         text: Inicio
       - sobre/index.qmd
-      - href: https://andres-chirinos.github.io/notes/
+      - href: https://cuaderno.andreschirinos.tech/
         text: El cuaderno de notas
       - charlas/index.qmd
     right:
